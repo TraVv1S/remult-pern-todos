@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Clean car",
+    "completed": true,
+    "id": 1
+  },
+  {
+    "title": "Clean bike",
+    "completed": false,
+    "id": 2
+  },
+  {
+    "title": "Take a nap",
+    "completed": true,
+    "id": 3
+  },
+  {
+    "title": "Take a gap",
+    "completed": true,
+    "id": 4
+  }
+]
